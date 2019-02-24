@@ -1,0 +1,105 @@
+body{
+    
+    background-image: linear-gradient(90deg, #84B4B6, #55959B);
+    height: 100%;
+    
+   
+}
+
+.container{
+    font-family: 'Roboto Slab', serif;
+}
+
+.mov{
+    font-family: 'Roboto Slab', serif;;
+    color: #fff;
+    padding: 10px;
+    float: left;
+}
+
+
+.gif{
+    border: 2px;
+    background-color: #F5EAD5;
+    color: #55959B;
+    padding: 5px;
+    margin: 10px;
+    border: round;
+
+
+}
+.mov img{
+    width: 200px;
+}
+
+.btn{
+    border: 0px;
+    background-color: #F5EAD5;
+    color: #55959B;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    font-size: 60px;
+    
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color: #3A7288;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+    color: #3A7288;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header{
+    padding:  50px 0 20px 0;
+    
+}
+
+.gamefont{
+    font-family: 'Courier New', Courier, monospace;
+    color: #3A7288;
+
+}
+
+.score{
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3A7288;
+}
+#winOrLose {
+	color: #3A7288;
+}
+
+.total, .scores {
+	margin: auto;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #3A7288;
+    border: 0px;
+}
+
+.crystalimg{
+    width: 100px;
+    margin: 30px auto;
+}
+
+.crystalimg:hover{
+    cursor: pointer;
+    -webkit-filter: brightness(120%); 
+}
